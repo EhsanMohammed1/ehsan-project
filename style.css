@@ -4,4 +4,6 @@ body {
 
 h1 {
   color: brown;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, Impact, Haettenschweiler,
+    "Arial Narrow Bold", sans-serif;
 }
